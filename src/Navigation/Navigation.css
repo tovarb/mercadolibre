@@ -1,0 +1,16 @@
+#navContainer {
+    background-color: #fef159;
+}
+
+#logo {
+    height: 35px;
+}
+
+#promo {
+    height: 40px;
+}
+
+div a.postal-c, div ul li.nav-item {
+    font-size: 12px;
+} 
+
