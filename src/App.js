@@ -3,6 +3,7 @@ import './App.css';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navigation from './Navigation/Navigation';
+import Header from './Header/Header';
 
 class App extends Component {
   /*
@@ -15,6 +16,7 @@ class App extends Component {
     return(
       <div>
         <Navigation />
+        <Header />
       </div>
     );
   }
