@@ -4,6 +4,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navigation from './Navigation/Navigation';
 import Header from './Header/Header';
+import Discounts from './Discounts/Discounts';
 
 class App extends Component {
   /*
@@ -17,6 +18,7 @@ class App extends Component {
       <div>
         <Navigation />
         <Header />
+        <Discounts />
       </div>
     );
   }

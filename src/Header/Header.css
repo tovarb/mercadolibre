@@ -1,13 +1,12 @@
 #generalContainer {
     background-color: #ebebeb;
-    height: auto;
+    height: 510px;
 }
 
 div.card {
     border-radius: 5px;
     border:1px solid transparent;
     background-color: white;
-    height: 90px;
     line-height: 1;
 }
 

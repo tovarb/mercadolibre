@@ -1,0 +1,48 @@
+#generalcontainer {
+    background-color: #ebebeb;
+}
+small.transparent {
+    display: none;
+}
+
+small.last-price {
+    text-decoration: line-through;
+}
+
+div.card:hover p.card-text small.transparent, div.card:hover div.card-body small.transparent {
+    display: block;
+}
+
+h5.card-title span {
+    font-size: 15px;
+    color: #39b54a;
+}
+
+div.card-deck div.card {
+    border: 1px solid transparent;
+}
+
+div.card-deck {
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+div.card {
+    background-color: white;
+    height: auto;
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: 300;
+    color: #666;
+    margin: 0 0px 0 8px;
+}
+
+h1 span {
+    font-size: 16px;
+    color: #3483fa;
+    font-weight: 400;
+    margin-left: 10px;
+}

@@ -28,7 +28,7 @@ class Navigation extends Component {
                                 <button className="btn btn-light" type="button"><i className="fas fa-search"></i></button>
                             </div>
                         </div>
-                        <div className="input-group m-0 p-0">
+                        <div className="input-group m-0 p-0 d-flex flex-row-reverse">
                             <img id="promo" src={promo} alt="logo-mercadopago" />
                         </div>
                     </div>
@@ -50,6 +50,9 @@ class Navigation extends Component {
                                 <a className="nav-link" href="https://www.mercadolibre.com.mx/">Historial</a>
                             </li>
                             <li className="nav-item">
+                                <a className="nav-link" href="https://www.mercadolibre.com.mx/">Tiendas oficiales</a>
+                            </li>
+                            <li className="nav-item">
                                 <a className="nav-link" href="https://www.mercadolibre.com.mx/">Vender</a>
                             </li>
                             <li className="nav-item">
@@ -57,8 +60,8 @@ class Navigation extends Component {
                             </li>
                         </ul>
                     </div>
-                    <div className="collapse navbar-collapse input-group" id="navbarText">
-                        <ul className="navbar-nav ml-5">
+                    <div className="collapse navbar-collapse input-group flex-row-reverse" id="navbarText">
+                        <ul className="navbar-nav ">
                             <li className="nav-item">
                                 <a className="nav-link active" href="https://www.mercadolibre.com.mx/">Crear tu cuenta</a>
                             </li>
