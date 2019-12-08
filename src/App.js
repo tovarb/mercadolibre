@@ -5,6 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Navigation from './Navigation/Navigation';
 import Header from './Header/Header';
 import Discounts from './Discounts/Discounts';
+import Discover from './Discover/Discover';
 
 class App extends Component {
   /*
@@ -19,6 +20,7 @@ class App extends Component {
         <Navigation />
         <Header />
         <Discounts />
+        <Discover />
       </div>
     );
   }
