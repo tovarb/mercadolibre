@@ -10,7 +10,7 @@ small.last-price {
     text-decoration: line-through;
 }
 
-div.card:hover p.card-text small.transparent, div.card:hover div.card-body small.transparent {
+div.card:hover  p.card-text small.transparent, div.card:hover div.card-body small.transparent {
     display: block;
 }
 

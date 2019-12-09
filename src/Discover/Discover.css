@@ -1,3 +1,8 @@
+#generalContainer {
+    background-color: #ebebeb;
+    height: 400px;
+}
+
 img.discover {
     float: right;
     height: 100%;

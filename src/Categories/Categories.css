@@ -1,0 +1,43 @@
+#generalContainer-categories {
+    height: auto;
+    background-color: #ebebeb;;
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: 300;
+    color: #666;
+    margin: 0 0px 0 8px;
+}
+
+div.first-group {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+i.icon-c{
+    font-size: 60px;
+    padding: 20px;
+    color: #3483fa;
+}
+
+i.icon-c, p.description{
+    text-align: center;
+}
+
+div.categories:hover div.card-body, div.categories:hover div.card-body i.icon-c {
+    background-color: #3483fa;
+    color: white;
+}
+
+div.categories {
+    border: 1px solid #ebebeb;
+}
+
+div.group-one {
+    margin-bottom: 0;
+}
+
+div.group-two {
+    margin-top: 0;
+}

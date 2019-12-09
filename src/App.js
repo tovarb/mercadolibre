@@ -6,6 +6,7 @@ import Navigation from './Navigation/Navigation';
 import Header from './Header/Header';
 import Discounts from './Discounts/Discounts';
 import Discover from './Discover/Discover';
+import Categories from './Categories/Categories';
 
 class App extends Component {
   /*
@@ -21,6 +22,7 @@ class App extends Component {
         <Header />
         <Discounts />
         <Discover />
+        <Categories />
       </div>
     );
   }

@@ -16,7 +16,7 @@ class Discounts extends Component {
                                 <small className="text-muted transparent last-price">$546</small>
                                 <h5 className="card-title">$367 <span>32% OFF</span></h5>
                                 <p className="card-text">12x $30.58 sin interéses</p>
-                            <p className="card-text"><small className="text-muted transparent">Juego de bolsas elegante. Diseño con zíper P/ mujer</small></p>
+                            <p className="card-text"><small className="text-muted transparent">Juego de bolsas elegante.</small></p>
                             </div>
                         </div>
                         <div className="card">
@@ -25,7 +25,7 @@ class Discounts extends Component {
                                 <small className="text-muted transparent last-price">$546</small>
                                 <h5 className="card-title">$399 <span>20% OFF</span></h5>
                                 <p className="card-text">12x $26.60 sin interéses</p>
-                            <p className="card-text"><small className="text-muted transparent">Archy Smartwatch Reloj Inteligente Bluetooth Chip Sim Micro Sd Whatsapp</small></p>
+                            <p className="card-text"><small className="text-muted transparent">Archy Reloj Inteligente.</small></p>
                             </div>
                         </div>
                         <div className="card">
@@ -34,7 +34,7 @@ class Discounts extends Component {
                                 <small className="text-muted transparent last-price">$20</small>
                                 <h5 className="card-title">$19 <span>5% OFF</span></h5>
                                 <p className="card-text">12x $16.25 sin interéses</p>
-                            <p className="card-text"><small className="text-muted transparent">Juego Ctr Crash Team Racing Ps1 Playstation Celular Android</small></p>
+                            <p className="card-text"><small className="text-muted transparent">Juego Ctr Crash Team Racing Ps1 Playstation.</small></p>
                             </div>
                         </div>
                         <div className="card">
@@ -43,7 +43,7 @@ class Discounts extends Component {
                                 <small className="text-muted transparent last-price">$999</small>
                                 <h5 className="card-title">$529 <span>31% OFF</span></h5>
                                 <p className="card-text">12x $44.08 sin interéses</p>
-                            <p className="card-text"><small className="text-muted transparent">Paquete Nautica Blue + Nautica Classic Caballero Originales.</small></p>
+                            <p className="card-text"><small className="text-muted transparent">Paquete Nautica Blue + Nautica Classic Caballero.</small></p>
                             </div>
                         </div>
                         <div className="card">

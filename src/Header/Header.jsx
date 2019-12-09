@@ -38,13 +38,13 @@ class Header extends Component {
                 <section>
                     <div className="card-group">
                         <div className="card main-marg">
-                            <div className="card-body">
+                            <div className="card-body p-3">
                                 <p className="card-title">Paga cómodo y seguro</p>
                                 <p className="card-text text-muted smallLetter">con Mercado Pago</p>
                             </div>
                         </div>
                         <div className="card">
-                            <div className="card-body marg-left">
+                            <div className="card-body marg-left p-3">
                                 <p className="card-title">Hasta 12 meses sin intereses con: 
                                 <br /> 
                                 <span className="btn btn-link smallLetter">
@@ -55,15 +55,15 @@ class Header extends Component {
                             </div>
                         </div>
                         <div className="card">
-                            <div className="card-body">
-                                <p className="card-text smallLetter">
+                            <div className="card-body p-3">
+                                <p className="card-text smallLetter ">
                                 <img src= {process.env.PUBLIC_URL + '/images/ML-invex.png'} alt="card"/>
                                     Mercado Libre <br/> <span className="ml-5">INVEX</span>
                                 </p>
                             </div>
                         </div>
                         <div className="card">
-                            <div className="card-body marg-left">
+                            <div className="card-body marg-left p-3">
                                 <p className="card-title">Más medios de pago 
                                 <br /> 
                                 <span className="btn btn-link smallLetter">

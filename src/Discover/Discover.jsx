@@ -6,7 +6,7 @@ class Discover extends Component {
     render(){
         return(
             <div id="generalContainer">
-                <h1>Descubre</h1>
+                <h1 >Descubre</h1>
                 <div className="row card-cont">
                     <div className="col-sm-6">
                         <div className="card">
