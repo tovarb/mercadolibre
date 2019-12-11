@@ -1,0 +1,30 @@
+div#generalContainer-Benefits {
+    height: auto;
+}
+
+img.benefits-img {
+    height: 50px;
+
+}
+
+div.card-containerB {
+    text-align: center;
+}
+
+h1.title-bc {
+    font-weight: 300;
+    font-size: 20px;
+    color: #4b4b4b;
+    line-height: 10px;
+}
+
+p.text-b {
+    font-size: 15px;
+    color: #a7a7a7;
+}
+
+small.text-f {
+    font-size: 14px;
+    color: #4e89e4;
+    cursor: pointer;
+}

@@ -7,6 +7,7 @@ import Header from './Header/Header';
 import Discounts from './Discounts/Discounts';
 import Discover from './Discover/Discover';
 import Categories from './Categories/Categories';
+import Benefits from './Benefits/Benefits';
 
 class App extends Component {
   /*
@@ -23,6 +24,7 @@ class App extends Component {
         <Discounts />
         <Discover />
         <Categories />
+        <Benefits />
       </div>
     );
   }
