@@ -1,0 +1,49 @@
+div.main-footer {
+    background-color: #f7f7f7;
+    font-size: 13px;
+    padding: 35px 10px;
+}
+
+h4 {
+    font-weight: 500;
+    font-size: 13px;
+}
+
+ul.list-unstyled li {
+    color: #9e9e9e;
+    cursor: pointer;
+}
+
+div.footer-bottom {
+    background-color: #ffff;
+    width: 100%;
+}
+
+div.promo-app p, button.yellow i, div.last-info ul li, p.copyright {
+    font-size: 12px;
+}
+
+div.last-info ul li {
+    display: inline-block;
+}
+
+div.last-info ul li, p.copyright {
+    margin-left: 15px;
+}
+
+div.last-info {
+    margin-top: 10px;
+}
+
+p.copyright {
+    color: #9d9d9d;
+}
+
+img.adv {
+    height: 35px;
+    width: auto;
+    position: absolute;
+    right: 0;
+    top: 10px;
+    cursor: pointer;
+}

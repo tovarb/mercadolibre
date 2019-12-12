@@ -8,6 +8,7 @@ import Discounts from './Discounts/Discounts';
 import Discover from './Discover/Discover';
 import Categories from './Categories/Categories';
 import Benefits from './Benefits/Benefits';
+import Footer from './Footer/Footer';
 
 class App extends Component {
   /*
@@ -25,6 +26,7 @@ class App extends Component {
         <Discover />
         <Categories />
         <Benefits />
+        <Footer />
       </div>
     );
   }

@@ -1,6 +1,7 @@
 #generalcontainer {
     background-color: #ebebeb;
-    height: 430px;
+    min-height: 430px;
+    height: auto;
 }
 small.transparent {
     display: none;

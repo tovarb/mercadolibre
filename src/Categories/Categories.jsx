@@ -55,43 +55,43 @@ class Categories extends Component {
                 <div className="card-group group-two">
                     <div className="card categories">
                         <div className="card-body">
-                            <i class="fas fa-mobile-alt icon-c"></i>
+                            <i className="fas fa-mobile-alt icon-c"></i>
                             <p className="card-text description">Celulares y Telefonía</p>
                         </div>
                     </div>
                     <div className="card categories">
                         <div className="card-body">
-                            <i class="fas fa-microphone-alt icon-c"></i>
+                            <i className="fas fa-microphone-alt icon-c"></i>
                             <p className="card-text description">Electrónica, Audio y Video</p>
                         </div>
                     </div>
                     <div className="card categories">
                         <div className="card-body">
-                            <i class="fas fa-couch icon-c"></i>
+                            <i className="fas fa-couch icon-c"></i>
                             <p className="card-text description">Hogar, Muebles y Jardín</p>
                         </div>
                     </div>
                     <div className="card categories">
                         <div className="card-body">
-                            <i class="fas fa-puzzle-piece icon-c"></i>
+                            <i className="fas fa-puzzle-piece icon-c"></i>
                             <p className="card-text description">Juegos y Juguetes</p>
                         </div>
                     </div>
                     <div className="card categories">
                         <div className="card-body">
-                            <i class="fas fa-camera icon-c"></i>
+                            <i className="fas fa-camera icon-c"></i>
                             <p className="card-text description">Cámaras y Accesorios</p>
                         </div>
                     </div>
                     <div className="card categories">
                         <div className="card-body">
-                            <i class="far fa-gem icon-c"></i>
+                            <i className="far fa-gem icon-c"></i>
                             <p className="card-text description">Joyas y Relojes</p>
                         </div>
                     </div>
                     <div className="card categories">
                         <div className="card-body">
-                            <i class="fas fa-book-open icon-c"></i>
+                            <i className="fas fa-book-open icon-c"></i>
                             <p className="card-text description">Libros, Revistas y Comics</p>
                         </div>
                     </div>
